@@ -12,6 +12,8 @@ if (comprovaSessio()) {
 		<a href="view/alta_propietari.php"> Donar alta propietari </a><br />
 		<a href="view/alta_equipMecanic.php"> Donar alta equip mecànic </a><br />
 		<a href="view/mostrar_equipMecanic.php"> Mostrar equips mecànics </a>
+		<a href="#"> Nou enllaç a especificar </a>
+
 		<?php
 	} 
 }
